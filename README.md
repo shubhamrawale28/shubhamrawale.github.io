@@ -1,1 +1,1 @@
-Following files are created while attending the Progate Webdev Workshop.
+Following files were created while attending the Progate Webdev Workshop.
